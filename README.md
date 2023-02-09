@@ -12,7 +12,7 @@ A* is a search algorithm derived from Dijkstra's algorithm. The main mechanism i
 ## Assumptions Made:
 Campus Map Director is very easy to use. CMD outputs a key with which numbers correspond to which buildings, then asks for the user the number of where they want to start and end. This should be very accessible to anyone. 
 
-Assumptions are also made that the user knows where they are on campus, as well as can navigate the output map. 
+Assumptions are also made that the user knows where they are on campus, and can navigate the output map. 
 
 ## A* Algorithm Psuedocode
 
