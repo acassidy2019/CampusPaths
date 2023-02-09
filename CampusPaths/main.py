@@ -2,7 +2,7 @@ import keyboard
 from lib.campuspaths import *
 from lib.All_Routes import *
 
-# Todo: add consideration for corssing through buildings. can be done with a dictionary stating a given pixel count increase for each building
+# Todo: add consideration for crossing through buildings. can be done with a dictionary stating a given pixel count increase for each building
 
 # display our base map image
 DisplayImage("images/campus_map_scaled.png")
